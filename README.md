@@ -1,10 +1,9 @@
 ## Giovani Martinho
-**Computer Engineering Student**
 
 ---
 
 ### About Me
-I am a computer engineering student currently working with computer vision and machine learning.
+I am a computer engineering currently working with computer vision and machine learning.
 
 ---
 
